@@ -14,7 +14,7 @@ import time
 import os
 
 """# URL"""
-variable = 5 # Commit test
+
 URL_List = [
     'https://www.amazon.eg/-/en/Nescafe-Gold-Instant-Coffee-200g/dp/B00UELPID4/?_encoding=UTF8&pd_rd_w=FrrG9&content-id=amzn1.sym.60f9306d-5053-41bd-a7fb-0b96f394de1f&pf_rd_p=60f9306d-5053-41bd-a7fb-0b96f394de1f&pf_rd_r=J6KG6XKV3VT7E343G9HS&pd_rd_wg=Ww1wY&pd_rd_r=5d28aa96-c135-46d7-901a-3b1d7323be46&ref_=pd_hp_d_btf_ref_810de7a2-9ed2-4b50-bbbd-2346be099ee7',
     'https://www.amazon.eg/-/en/Apple-iPhone-11-FaceTime-SIM/dp/B08L8BJ9VC/ref=sr_1_5?crid=38XFI50TZ98P8&dib=eyJ2IjoiMSJ9.VPZ0fGt6S7GD1oLE7rC-3if4Zy0Y0KslFX5xzd-VH_tRd2D60JmniZWeh18pNs-Fv-l8zvaFWa9_IWm6Jrcuo_q8l6YN9jhVz3zqLzJ537KPBKzSBXBIIuFbFJZmP-pH_naCT1oGJ36zBW5MJm6GyZKEQKFqQuTi8Xt1RGuzINATy2Iih8ynrMjQwlOo2NLqtlL9PqI6V7M8iXB8Si4l_aAin697-yMWY_3VCkAuicn_glf6oVyTbjYtC0gVgpsFqy7wgFVAgz1v6wHntl4vlDwEjS0_Om-f-bgXjrAyCXs.FI7U5W6VjPGX5TOo0xUsWKvl1RohVaf-ri2vcFP4IkU&dib_tag=se&keywords=iphone+11+pro+max&qid=1716057388&sprefix=iphone+11+pro+%2Caps%2C195&sr=8-5',
